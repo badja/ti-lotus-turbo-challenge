@@ -1,0 +1,75 @@
+LOTUS TURBO CHALLENGE v1.0                                     31 October 1999
+==========================
+for Ion on the TI-83 and TI-83 Plus
+
+by badja
+http://move.to/badja
+badja@alphalink.com.au
+
+
+How to Run
+==========
+Lotus Turbo Challenge requires Ion to run.
+
+To run Lotus Turbo Challenge, make sure Ion is installed on your calculator.
+
+TI-83 users:  Send LOTUS.83P and LOTUSDAT.83P to your calculator.
+TI-83+ users: Send LOTUS.8XP and LOTUSDAT.8XP to your calculator.
+
+Start Ion, then run Lotus Turbo Challenge.
+
+
+About
+=====
+Lotus Turbo Challenge is a fast-paced racing game presented from a second-
+person 3D perspective. You must complete each course while racing against the
+clock and avoiding opponent cars. There are six courses, each with different
+scenery and climatic effects.
+
+
+How to Play
+===========
+At the title screen, press the 2ND key to play the selected course. Initially
+you will only be able to play course 1.
+
+The next screen introduces the course. Hold down 2ND now, so that you'll
+accelerate as soon as the game starts. Use the LEFT and RIGHT arrow keys to
+steer. You can slow down a bit by releasing 2ND, or brake using ALPHA.
+
+The horizontal line at the top of the screen shows how much time you have
+left. At each checkpoint your time will be boosted. At the end of each course,
+any remaining time will be added to your score. You will then progress to the
+next course.
+
+You don't have to start at course 1 if you have reached a later course. You
+can select which course to start at on the title screen, but your score will
+start at zero.
+
+
+Summary of Keys
+===============
+
+Title screen:
+---------------------------------------------------------------
+Up/Down     Highlight menu item (Course/Reset game)
+Left/Right  Highlight starting course (when Course is selected)
+2nd         Select highlighted menu item
+CLEAR       Exit game
+
+In game:
+----------------------
+2nd         Accelerate
+Left/Right  Steer car
+ALPHA       Brake
+MODE        Pause
+CLEAR       End game
+
+
+Credits
+=======
+Based on the Magnetic Fields game "Lotus Turbo Challenge 2" for the Amiga.
+Uses Hannes Edfeldt's DRWSPR sprite routine.
+
+
+
+Send any comments, ideas, or other feedback to badja@alphalink.com.au
